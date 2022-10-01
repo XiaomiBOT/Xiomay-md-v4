@@ -47,29 +47,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Jarotr_' //Link Instagrammu
-global.sgh = 'https://github.com/Alpiii22' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda'
+global.sig = 'https://instagram.com/rangga_botz' //Link Instagrammu
+global.sgh = 'https://github.com/XiaomiBOT' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/CxhaZtrxdn4AfSUOHuCtcM'
 global.sdc = '_'
-global.stg = 'https://instagram.com/Jarotr_'
-global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //Isi Pake Link Discordmu Kalo Gada Biarin aja
+global.stg = 'https://instagram.com/rangga_botz'
+global.syt = 'https://youtube.com/channel/UCkiB1g5qA7xtd7AlXd46vcw' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085850539404' //Nomor Danamu
-global.ppulsa = '085850539404' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/jarotoffc' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '085779150501' //Nomor Danamu
+global.ppulsa = '085779150501' //Nomor SimCard Yang Kamu Pake
+global.psaweria = 'https://saweria.co/ranggabot123' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281376349712' //Nomor Bot
-global.nomorown = '6285850539404' //Nomor Owner
-global.namebot = 'OSCAR-MULTIDEVICE'  //Nama Bot
-global.nameown = 'Oscar Offc'  // Nama Owner
+global.nomorbot = '62857791505013' //Nomor Bot
+global.nomorown = '6285779150501' //Nomor Owner
+global.namebot = 'Xiaomi-MULTIDEVICE'  //Nama Bot
+global.nameown = 'HanzOfc'  // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285850539404', '❦ Oscar 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285779150501', '❦ Hanz 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -101,9 +101,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 OSCAR-MULTIDEVICE 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Oscar-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺  OSCAR-MD'
+global.wm = '                「 XIAOMI-MULTIDEVICE 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Xiaomi-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺  XIAOMI-MD'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
