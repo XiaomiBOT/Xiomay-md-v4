@@ -54,23 +54,23 @@ https://github.com/Aiinne
 *❉ Papah-Chan:*
 https://github.com/FahriAdison
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
-*❉ Oscar-Md*
-https://github.com/Alpiii22 
+*❉ Hanz-Ofc*
+https://github.com/XiaomiBOT
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
 *❉ Kannachan:*
 *❉ The.sadboy.01
 *❉ Papah-Chan:*
 *❉ Johannes:*
-*❉ Jarot:*
+*❉ HanzOfc:*
 *❉ Krisna:*
 *❉ Oscar-Md:*
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/Jarotr_",
+    mediaUrl: "https://Instagram.com/rangga_botz",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/Jarotr_", 
-    title: 'Oscar-MultiDevice',
+    description: "https://Instagram.com/rangga_botz", 
+    title: 'Xiaomi-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
